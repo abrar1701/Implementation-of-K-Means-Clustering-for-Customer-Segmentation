@@ -15,7 +15,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 5. The final clusters were visualized, highlighting distinct customer segments based on spending patterns.
 
 ## Program:
-```
+```py
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: MOHAMED ABRAR M
@@ -69,8 +69,7 @@ plt.ylabel('Spending Score (1-100)')
 plt.legend()
 plt.grid(True)
 plt.show()
- 
-*/
+
 ```
 
 ## Output:
